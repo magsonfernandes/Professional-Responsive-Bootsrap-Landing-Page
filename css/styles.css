@@ -1,0 +1,22 @@
+/* styles.css */
+
+/* Custom styles can be added here */
+.hero {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+}
+
+.about, .contact {
+    padding: 60px 0;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
+
+/* Clients Section */
+.clients img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px;
+}
